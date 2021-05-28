@@ -61,6 +61,7 @@ body {
 }
 
 .playbackButton {
+    cursor: pointer;
     text-decoration: none;
     background-color: #292828;
     color: white;
